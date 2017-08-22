@@ -406,7 +406,7 @@
     /*position: static;*/
     padding: 0;
     margin: 0;
-    background-color: magenta;
+  /*  background-color: magenta;*/
     width: 600px;
     height:500px;
     display: block;
@@ -424,7 +424,7 @@
   {
     padding: 5px;
     margin: 5px;
-    background-color: blue;
+    /*background-color: blue;*/
     font-family: Rubik;
     font-weight: 200;
     font-size: 1em;
